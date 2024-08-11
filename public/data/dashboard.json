@@ -1,0 +1,240 @@
+{
+    "dataBar": [
+        {
+            "id": 1,
+            "fkt": "Androka",
+            "z": 29300,
+            "y": 52149700,
+            "consPaye": 0,
+            "count": 383
+        },
+        {
+            "id": 2,
+            "fkt": "Ezaka",
+            "z": 16100,
+            "y": 28568700,
+            "consPaye": 0,
+            "count": 572
+        },
+        {
+            "id": 3,
+            "fkt": "Antsinanamanda",
+            "z": 0,
+            "y": 18101300,
+            "consPaye": 0,
+            "count": 268
+        },
+        {
+            "id": 4,
+            "fkt": "Sahamasy",
+            "z": 0,
+            "y": 40778500,
+            "consPaye": 0,
+            "count": 641
+        },
+        {
+            "id": 5,
+            "fkt": "Ambohijafy",
+            "z": 0,
+            "y": 40109900,
+            "consPaye": 0,
+            "count": 451
+        },
+        {
+            "id": 6,
+            "fkt": "Ambalamahasoa Nord",
+            "z": 0,
+            "y": 8140200,
+            "consPaye": 0,
+            "count": 194
+        },
+        {
+            "id": 7,
+            "fkt": "Soamanandray",
+            "z": 0,
+            "y": 3946200,
+            "consPaye": 0,
+            "count": 216
+        },
+        {
+            "id": 8,
+            "fkt": "Alatsinainy Fonenantsoa",
+            "z": 0,
+            "y": 1792500,
+            "consPaye": 0,
+            "count": 92
+        },
+        {
+            "id": 9,
+            "fkt": "Ambalalova Nord",
+            "z": 0,
+            "y": 20101000,
+            "consPaye": 0,
+            "count": 477
+        },
+        {
+            "id": 10,
+            "fkt": "Teloambinifolo",
+            "z": 0,
+            "y": 5313100,
+            "consPaye": 0,
+            "count": 160
+        },
+        {
+            "id": 11,
+            "fkt": "Ampanaovantsavony",
+            "z": 45479,
+            "y": 47974800,
+            "consPaye": 0,
+            "count": 530
+        },
+        {
+            "id": 12,
+            "fkt": "Tsaranoro",
+            "z": 0,
+            "y": 7580300,
+            "consPaye": 0,
+            "count": 370
+        },
+        {
+            "id": 13,
+            "fkt": "Ambohitsoa",
+            "z": 0,
+            "y": 42205700,
+            "consPaye": 0,
+            "count": 546
+        },
+        {
+            "id": 14,
+            "fkt": "Bemahalanja",
+            "z": 0,
+            "y": 14691600,
+            "consPaye": 0,
+            "count": 614
+        },
+        {
+            "id": 15,
+            "fkt": "Antsenanomby",
+            "z": 0,
+            "y": 29449000,
+            "consPaye": 0,
+            "count": 449
+        },
+        {
+            "id": 16,
+            "fkt": "Vondrokely",
+            "z": 0,
+            "y": 7128700,
+            "consPaye": 0,
+            "count": 145
+        },
+        {
+            "id": 17,
+            "fkt": "Alatsinainy",
+            "z": 0,
+            "y": 36660000,
+            "consPaye": 0,
+            "count": 367
+        },
+        {
+            "id": 18,
+            "fkt": "Ankofika",
+            "z": 0,
+            "y": 707030000,
+            "consPaye": 0,
+            "count": 781
+        },
+        {
+            "id": 19,
+            "fkt": "Ambalamahasoa Sud",
+            "z": 0,
+            "y": 6000000,
+            "consPaye": 0,
+            "count": 254
+        },
+        {
+            "id": 20,
+            "fkt": "Maroparasy",
+            "z": 0,
+            "y": 9052400,
+            "consPaye": 0,
+            "count": 370
+        },
+        {
+            "id": 21,
+            "fkt": "Vatofotsy",
+            "z": 0,
+            "y": 3358200,
+            "consPaye": 0,
+            "count": 175
+        }
+    ],
+    "dataSpline": [
+        {
+            "year": "",
+            "month": "Janvier",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "F\u00e9vrier",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Mars",
+            "amount": 0
+        },
+        {
+            "year": 2024,
+            "month_number": 4,
+            "month": "Avril",
+            "amount": 29300
+        },
+        {
+            "year": "",
+            "month": "Mai",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Juin",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Juillet",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Ao\u00fbt",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Septembre",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Octobre",
+            "amount": 0
+        },
+        {
+            "year": "",
+            "month": "Novembre",
+            "amount": 0
+        },
+        {
+            "year": 2023,
+            "month_number": 12,
+            "month": "Decembre",
+            "amount": 61579
+        }
+    ],
+    "construction": 8055,
+    "ifpb": 1130131800,
+    "paiement": 90879,
+    "consPaye": 0
+}
